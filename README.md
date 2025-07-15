@@ -50,7 +50,3 @@ Notebook `hology-2024.ipynb` berisi pipeline lengkap mulai dari eksplorasi data,
 ## Catatan Penting
 - Model utama: EfficientNet-B3 (bisa diganti backbone lain dari `timm`).
 - Pipeline mendukung advanced augmentasi, ensembling, dan semi-supervised.
-- Untuk hasil optimal, gunakan GPU dan lakukan tuning hyperparameter.
-
-## Kontak
-Solusi ini dikembangkan untuk kompetisi Hology 2024. Untuk pertanyaan, silakan hubungi tim pengembang. 
